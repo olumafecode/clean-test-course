@@ -1,4 +1,4 @@
-node_modules/
+.venvnode_modules/
 .DS_Store
 .npmcache
 
